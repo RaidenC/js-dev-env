@@ -1,2 +1,2 @@
-# js-dev-env
-JavaScript Development Environment
+# node-starter-kit
+
